@@ -16,7 +16,7 @@ To get a local copy up and running, follow these simple steps:
 
 ## Usage
 
-First copy this repo and clone it on your machine using this [link]https://github.com/limavfabio/fabio-kumilachew-awesome-books.git.
+First copy this repo and clone it on your machine using this [link]https://github.com/Kumilachew-g/Awesome-Books.git
 Then cd into fabio-kumilachew-awesome-books directory.
 
 # Authors
